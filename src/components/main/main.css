@@ -1,0 +1,17 @@
+.titleBody{
+    margin-top: 3rem;
+    font-family: fantasy;
+    font-weight: 600;
+    font-size: 5rem;
+    border-bottom: 2px black solid;
+    border-radius: 10px;
+    box-shadow: 10px 0 15px black;
+    padding: 1% 1% 1% 2%;
+    transition: 2.5s;
+    width: 30rem;
+    background-color: #FFC107;
+}
+
+.sobreGame{
+    margin-top: 3rem;
+}
