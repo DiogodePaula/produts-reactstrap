@@ -3,6 +3,7 @@ import slide01 from './imagens/RE.jpg';
 import slide02 from './imagens/D3C.jpg';
 import slide03 from './imagens/CTV02.jpg';
 import slide04 from './imagens/CTV01.jpg';
+import slide05 from './imagens/BATLE-FOOTER.png';
 import './body.css';
 import {
   Carousel,
@@ -24,6 +25,9 @@ const items = [
   },
   {
     src: slide04,
+  },
+  {
+    src: slide05,
   }
 ];
 

@@ -7,6 +7,7 @@ import Card from './components/card/card';
 import Card2 from './components/card2/card2';
 import Card3 from './components/card3/card3';
 import Card4 from './components/card4/card4';
+import Card5 from './components/card5/card5';
 import Footer from './components/footer/footer';
 import './App.css';
 
@@ -45,6 +46,11 @@ import './App.css';
            os jogadores atravessarão mais de 50 fases desenvolvidas de forma incrível em 3D, enfrentarão mais de 45 inimigos e derrotarão 
            enormes adversários em tempo real com habilidades, poderes e agilidade."></Main>
            <Card4></Card4>
+           <Main nome="STAR WARS™ Battlefront™ II" tituloSobre="Sobre o game" sobreGame="Seja o herói na mais incrível experiência de batalha de 
+           Star Wars™ com Star Wars™ Battlefront™ II: Celebration Edition! Obtenha o Star Wars Battlefront II e a coleção completa de conteúdos 
+           de personalização que podem ser comprados no jogo desde o lançamento até - e incluindo - os itens inspirados em Star Wars™: A ASCENSÃO 
+           SKYWALKER™*."></Main>
+           <Card5></Card5>
           <Footer></Footer>
           {/* <Button color="danger">Danger!</Button> */}
       </div>
