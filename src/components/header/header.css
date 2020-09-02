@@ -1,0 +1,30 @@
+:root{
+    font-size: 60%;
+    font-weight: 600;
+}
+
+.navbar{
+    border-bottom: 2px black solid;
+    box-shadow: 10px 0 25px black;
+    padding: 20px;
+}
+
+.nav{
+    padding: 40px;
+}
+
+.title{
+    font-family: fantasy;
+    font-weight: 600;
+    font-size: 5rem;
+    border-bottom: 2px black solid;
+    border-radius: 10px;
+    box-shadow: 10px 0 15px black;
+    padding: 0 5% 0 5%;
+    transition: 2.5s;
+}
+
+.title:hover{
+    transform: translateX(200px);
+    transition: 1.5s;
+}
